@@ -8,5 +8,5 @@ using `löve2d`.
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love foxies 🦊
 
- ![Bl0odWolf GitHub stats](https://github-readme-stats.vercel.app/api?username=Bl0odWolf&show_icons=true&theme=synthwave)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bl0odWolf&theme=synthwave)
+ ![Bl0odWolf GitHub stats](https://github-readme-stats.vercel.app/api?username=Bl0odWolf&show_icons=true&theme=monokai)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bl0odWolf&theme=monokai)
