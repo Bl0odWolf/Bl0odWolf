@@ -1,7 +1,6 @@
 # 👋 Welcome to my profile
  Hello, you may callme blood wolf, i'm a game developer, i have
-15 years, i'm write codes on cell 😜, my main languages are Lua and
-CPP i already made some projects like [icosaidrium (map editor for mobile)](./)
+15 years, i'm write codes on cell 😜 i already made some projects like [icosaidrium (map editor for mobile)](./) and anothers: 0 games
 using `löve2d`.
 - 🔭 I’m currently working on "vrumm vrummm"
 - 🌱 I’m currently learning CPP
