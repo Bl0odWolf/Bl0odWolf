@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Bl0odWolf/Bl0odWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Welcome to my profile
+ Hello, you may callme blood wolf, i'm a game developer, i have
+15 years, i'm write codes on cell 😜, my main languages are Lua and
+CPP i already made some projects like [icosaidrium (map editor for mobile)](./)
+using [löve2d framework engine](./).
+- 🔭 I’m currently working on "special game"
+- 🌱 I’m currently learning CPP
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about game devlopment
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: I love foxies 🦊
