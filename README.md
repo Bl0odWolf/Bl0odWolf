@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile
  Hello, you may callme blood wolf, i'm a game developer, i have
-15 years, i'm write codes on cell 😜 i already made some projects like [icosaidrium (map editor for mobile)](./) and anothers: 0 games
+15 years, i'm write codes on cell 😜
 using `löve2d`.
 - 🔭 I’m currently working in "someone death"
 - 🌱 I’m currently learning CPP
